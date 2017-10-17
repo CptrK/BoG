@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<FahrzeugListe>
+    <Fahrzeug>
+        <FahrzeugNummer>Dummy</FahrzeugNummer>
+        <FahrzeugName>Kampfpanzer Leopard 2</FahrzeugName>
+        <FahrzeugTyp>Kettenfahrzeug</FahrzeugTyp>
+        <Belegt>false</Belegt>
+        <BelegtVon>null</BelegtVon>
+    </Fahrzeug>
+</FahrzeugListe>

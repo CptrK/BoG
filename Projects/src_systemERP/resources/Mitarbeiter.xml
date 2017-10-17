@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<MitarbeiterListe>
+    <Mitarbeiter>
+        <MitarbeiterNummer>systemAdmin</MitarbeiterNummer>
+        <MitarbeiterName>system.admin</MitarbeiterName>
+        <Gruppe>Admin</Gruppe>
+        <LogIn>admin00</LogIn>
+        <EmailAddresse>system.admin@erpsystem.de</EmailAddresse>
+        <Vorname>system</Vorname>
+        <Nachname>admin</Nachname>
+        <Geburtsdatum>Dummy</Geburtsdatum>
+        <Belegt>false</Belegt>
+        <BelegtVon>null</BelegtVon>
+    </Mitarbeiter>
+    <Mitarbeiter>
+        <MitarbeiterNummer>Dummy</MitarbeiterNummer>
+        <MitarbeiterName>dummy.dummy</MitarbeiterName>
+        <Gruppe>Dummy</Gruppe>
+        <LogIn>init00</LogIn>
+        <EmailAddresse>dummy.dummy@erpsystem.de</EmailAddresse>
+        <Vorname>dummy</Vorname>
+        <Nachname>dummy</Nachname>
+        <Geburtsdatum>Dummy</Geburtsdatum>
+        <Belegt>false</Belegt>
+        <BelegtVon>null</BelegtVon>
+    </Mitarbeiter>
+</MitarbeiterListe>

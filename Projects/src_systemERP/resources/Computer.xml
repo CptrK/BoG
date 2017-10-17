@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<GeraeteListe>
+    <Geraet>
+        <GeraeteNummer>Dummy</GeraeteNummer>
+        <GeraeteName>Computer 1</GeraeteName>
+        <GeraeteTyp>Buero PC</GeraeteTyp>
+        <Ipv4Addresse>null</Ipv4Addresse>
+        <Subnetzmaske>null</Subnetzmaske>
+        <Gateway>null</Gateway>
+        <MacAddresse>null</MacAddresse>
+        <AnschaffungsPreis>100</AnschaffungsPreis>
+        <Nutzungsdauer>100</Nutzungsdauer>
+        <Belegt>false</Belegt>
+        <BelegtVon>null</BelegtVon>
+    </Geraet>
+</GeraeteListe>

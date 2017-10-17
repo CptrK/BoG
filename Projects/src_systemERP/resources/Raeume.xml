@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<RaumListe>
+    <Raum>
+        <RaumNummer>Dummy</RaumNummer>
+        <RaumName>Raum Dummy</RaumName>
+        <RaumHoehe>3m</RaumHoehe>
+        <RaumBreite>10.0</RaumBreite>
+        <RaumLaenge>10.0</RaumLaenge>
+        <Grundflaeche>100.0</Grundflaeche>
+        <Belegt>false</Belegt>
+        <BelegtVon>null</BelegtVon>
+    </Raum>
+</RaumListe>
