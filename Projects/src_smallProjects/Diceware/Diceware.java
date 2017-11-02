@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Diceware {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		DictionaryService service = new DictionaryService("D:\\Schule\\Programs\\src_smallProjects\\Diceware\\Diceware.txt");
+		DictionaryService service = new DictionaryService("D:\\git\\SchoolProjects\\Projects\\src_smallProjects\\Diceware\\Diceware.txt");
 		Wuerfelbecher becher = new Wuerfelbecher();
 		String password ="";
 		System.out.println("Of how many words should your password consist?");
