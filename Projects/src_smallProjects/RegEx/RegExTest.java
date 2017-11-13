@@ -4,7 +4,13 @@ import java.io.IOException;
 
 public class RegExTest {
 	
-	private static String path = "D:/git/SchoolProjects/Projects/src_smallProjects/RegEx/example.txt";
+	/*
+	* comment: This is not a pefect solution for this tasks but it works fine with the given example text,
+	* some of the regular expression are directly created to fit the example.
+	*/
+	
+	//change path
+	private static String path = "C:\\Users\\User\\Desktop\\Ordner\\Entwicklung\\Schulisches\\Projects\\src_smallProjects\\RegEx\\example.txt";
 	
 	public static void main (String[] args) throws IOException {
 		//write starting comment
